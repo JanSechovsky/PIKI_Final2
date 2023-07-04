@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "stankari",
+  "private_key_id": "d60fab5af07c8c39f9f30e29ab41345ac7c4f340",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCuoQfv06+8vAX6\nGH+nqKQkZPtmng3uElM2Y1shaVvqC3RHDBk5S60lVe02RKeHfyyp6WJwAgVF11gs\nFtLzXSMPK1cf5mw/x7HZ1uaLwBbqfv7EIjf260MZMnEHYIeAbTifc0krf0bu3CvI\nPR/3p1PCQf8b6iJB4TN9kPQ7Vbn2fJ+dfnA3SIqvOYCSISt3PAAleqYdsgCjIVVy\nbdiuTllLDs9RPWgYCmQTZfyMAZ3r1o0lJ0OWJywM+0oymEU6atVa1azEd1HvsIpp\nPHNXv1QwGSGl6DkwhkhfxwdOTt3JUBHtxaoQwBllDhMoGkzXALmqYn/9lIIe4/5j\nSD/o1CndAgMBAAECggEACYNjxYyscPV0RObjQ2y0PnhS2skG/L56Uobwnr4Y4APu\nOnWeBSlKfjNzaAau8rp6oioA7xWpGGAuIT7AELp0771ecnIw2PulxHaI2jmldfJj\nqicsEdNItT1ye2Kmlxg8IrGa3ZgCMv6DExZDYNA4h6dlQK3NXnXognFsYLQfnJ4f\nx1wfcRgwuhh3dHTyQSUW9x9PkKO1QmtyTBP2636M5pdRTFyRU3pcuRBRAblu2+Cw\n+9PXg8b3WrOURgRt42y38U+Niny8ka7u/8KTx0ekmYg/H4JBk/zOyChWhrOhdrJC\nrmVnBeBCvuq82iBs9jSqW1aOQgj+3SpeG5XFwFFXyQKBgQDoRe9tnbvxR3eHhRXQ\nTraaswjnLiBxE83iU/LzyqXjMqtwrH6P89dxHE1esxZY2lWqgphr0f7UelC47Aqt\nC5DO48VBR+tr8rkNjHE4DHOI0Gj5C4ONc3kuBjmtNIAHWfh+50PVHmSyZtxem7US\nx+ZKjHrmKewVMWYjjpsgfBaeVQKBgQDAd6vHDWCDqJmL2g1d1zPOuopc1LIs3li4\n5yRUeybvqJ9SZ7w7SU9iE0pyEb+dPdk78MgAgNjd+CrmocN39nL19AapL0QQsYQx\nbyviqSTVBfZGDhPtIfbfl1WNpyR+ZS4REbkIEcLFt/rCzyrfIRwUKRQs/fZ7b6cs\nINDzUg9VaQKBgG3JiKc2VDxyfFQJGstwOS2cDExBaEIqizk8VuzWz1w5egFy9wuR\nxTaImyV03s42vSEwQ11LT/kcq4UMxOsQOW0hCf6WQPewLbnytR05/W4gnE2DHLZC\na3fOp3pwA0f2Rdet9kkI6a3NosHxNUBgTkDUb87U5+sIg2+xGy/al1JVAoGAb0fB\n5gDyAK2GubmFaPB4X9qzDSFdM1wLaD0cYEwkIwUXuQmJZ63nXAlTTci9RSjxZRq+\nSKw2t4A5LcfxwHaZ2WMSRtexPwWkLQDeGts5FIGx9qdFFiJBHt3c9V3iV8IgdHYO\nyX+bYb4SGni1jPUTywRFSg48aPoRag4/Qa/8daECgYEAx0iKPRpwOXZfNCnkduS4\nRprcd7XoQIJmVpLc8agcRzYaUTWkXSHBYjRwmKLGmZesWnfDeLvNQ4p+LMzttx6d\nHGKZ5N81Eo6/6tDz76vBF1o55LmXoVRug7Tgo2SOJkz+AdV5bf8Fvc9shq3rF90+\nyWOGpRBIqSCVLJzi7b1H7nQ=\n-----END PRIVATE KEY-----\n",
+  "client_email": "stankari@stankari.iam.gserviceaccount.com",
+  "client_id": "106422788789972924979",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/stankari%40stankari.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
